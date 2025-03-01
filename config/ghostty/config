@@ -1,0 +1,15 @@
+theme = rose-pine
+#background = 000000
+macos-titlebar-style = tabs
+
+font-size = 15
+font-family = "Hack Nerd Font Mono"
+
+macos-titlebar-proxy-icon = hidden
+title = " "
+
+maximize = true
+window-save-state = always
+quit-after-last-window-closed = true
+
+shell-integration-features = no-cursor,no-sudo,title
